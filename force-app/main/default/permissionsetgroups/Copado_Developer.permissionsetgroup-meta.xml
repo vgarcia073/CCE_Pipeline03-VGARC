@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Bundled permissions for Copado developers</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Copado Developer</label>
+    <permissionSets>Copado_user_custom</permissionSets>
+    <permissionSets>cmcSf__CMC_SFDX_Admin</permissionSets>
+    <permissionSets>copado__Copado_Functions</permissionSets>
+    <permissionSets>copado__Copado_Functions_User</permissionSets>
+    <permissionSets>copado__Copado_Job_Engine</permissionSets>
+    <permissionSets>copado__Copado_User</permissionSets>
+    <permissionSets>copado__Execute_Automations</permissionSets>
+    <permissionSets>copado__Execute_Tests</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
